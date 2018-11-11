@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: Suresh Prakash
+Agent-Class: com.jrf.agent.JavaRuntimeFixerAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Class-Path: ../lib/javassist.jar
